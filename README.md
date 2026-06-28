@@ -6,8 +6,8 @@ This project was developed as part of a technical assignment to demonstrate full
 ---
 
 ## 🚀 Live Demo
-Frontend: https://your-frontend-url  
-Backend API: https://your-backend-url  
+Frontend: task-tracker-nu-woad.vercel.app
+Backend API: https://task-tracker-8kcj.onrender.com
 
 ---
 
