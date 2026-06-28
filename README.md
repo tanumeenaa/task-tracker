@@ -7,6 +7,7 @@ This project was developed as part of a technical assignment to demonstrate full
 
 ## 🚀 Live Demo
 Frontend: task-tracker-nu-woad.vercel.app
+
 Backend API: https://task-tracker-8kcj.onrender.com
 
 ---
